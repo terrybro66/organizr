@@ -1,0 +1,20 @@
+.task {
+  border-radius: 1rem;
+  background-color: red;
+  padding: 2rem;
+  margin: 0 1rem 1rem 0;
+}
+
+.food {
+  border-radius: 1rem;
+  background-color: blue;
+  padding: 2rem;
+  margin: 0 1rem 1rem 0;
+}
+
+.exercise {
+  border-radius: 1rem;
+  background-color: green;
+  padding: 2rem;
+  margin: 0 1rem 1rem 0;
+}
